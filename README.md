@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=46508C&center=true&vCenter=true&width=600&lines=Cloud+Security+%7C+Agile+Delivery;Building+Modern+Digital+Operations" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 ## `01` &nbsp;About
 

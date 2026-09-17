@@ -150,7 +150,7 @@ graph LR
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=go-maiwun&show_icons=true&theme=transparent&hide_border=true&title_color=2E7D6E&icon_color=B4472B&text_color=555555"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-maiwun&layout=compact&theme=transparent&hide_border=true&title_color=2E7D6E&text_color=555555"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=go-maiwun&theme=transparent&hide_border=true&ring=2E7D6E&fire=B4472B&currStreakLabel=2E7D6E"/>
+<img src="https://streak-stats.demolab.com/?user=go-maiwun&theme=transparent&hide_border=true&ring=2E7D6E&fire=B4472B&currStreakLabel=2E7D6E"/>
 
 </div>
 

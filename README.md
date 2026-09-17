@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D6E,100:46508C&height=220&section=header&text=Cloudpire&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Project%20Management%20%26%20Business&descAlignY=58&descSize=22" width="100%"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=46508C&center=true&vCenter=true&width=600&lines=Cloud+Security+%7C+Agile+Delivery;Building+Modern+Digital+Operations" alt="Typing SVG" />
 
 <br/><br/>

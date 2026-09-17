@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Your%20City-46508C?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
+<a href="https://linkedin.com/in/[REPLACE-WITH-YOUR-LINKEDIN-HANDLE]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:[REPLACE-WITH-YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/[REPLACE--WITH--YOUR--CITY]-46508C?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=go-maiwun&label=Profile%20Views&color=2e7d6e&style=flat" />
 
@@ -28,7 +28,7 @@ I'm passionate about **learning technical skills**, contributing to **corporate 
 
 I enjoy learning deeply, working across teams, and turning complexity into clarity — whether inside an established organization or a new venture I'm building myself through **Cloudpire**.
 
-📚 Avid reader &nbsp;·&nbsp; 📷 Photographer &nbsp;·&nbsp; Curious by default
+📚 Avid reader &nbsp;·&nbsp; 📷 Photography &nbsp;·&nbsp; Curious by default
 
 </td>
 </tr>
@@ -124,27 +124,16 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 
 ## `07` &nbsp;Snapshot
 
-<details open>
-<summary><b>Click to expand</b></summary>
-<br/>
-
-```yaml
-🔭 Currently working on:      Deepening my technical foundation while building
-                               Cloudpire and supporting business-focused delivery work
-🌱 Currently learning:        Cloud architecture, cloud security, and how to
-                               turn technical knowledge into real business value
-👯 Looking to collaborate on: Business-building opportunities, startup support,
-                               technical project delivery, cloud/cybersecurity work
-🤔 Looking for help with:     Real-world cloud security scenarios, business strategy,
-                               and practical growth opportunities for modern teams
-💬 Ask me about:              Technical project management, business enablement,
-                               cloud security, learning strategies, building with intent
-📫 Reach me:                  your.email@example.com · linkedin.com/in/your-profile
-😄 Pronouns:                  [your-pronouns]
-⚡ Fun fact:                   I'm an avid reader and love photography
-```
-
-</details>
+<table>
+<tr><td width="40"><b>🔭</b></td><td width="220"><b>Currently working on</b></td><td>Deepening my technical foundation while building Cloudpire and supporting business-focused delivery work</td></tr>
+<tr><td><b>🌱</b></td><td><b>Currently learning</b></td><td>Cloud architecture, cloud security, and how to turn technical knowledge into real business value</td></tr>
+<tr><td><b>👯</b></td><td><b>Looking to collaborate on</b></td><td>Business-building opportunities, startup support, technical project delivery, cloud/cybersecurity work</td></tr>
+<tr><td><b>🤔</b></td><td><b>Looking for help with</b></td><td>Real-world cloud security scenarios, business strategy, and practical growth opportunities for modern teams</td></tr>
+<tr><td><b>💬</b></td><td><b>Ask me about</b></td><td>Technical project management, business enablement, cloud security, learning strategies, building with intent</td></tr>
+<tr><td><b>📫</b></td><td><b>Reach me</b></td><td><a href="mailto:[REPLACE-WITH-YOUR-EMAIL]">Email</a> · <a href="https://linkedin.com/in/[REPLACE-WITH-YOUR-LINKEDIN-HANDLE]">LinkedIn</a></td></tr>
+<tr><td><b>😄</b></td><td><b>Pronouns</b></td><td>[REPLACE-WITH-YOUR-PRONOUNS]</td></tr>
+<tr><td><b>⚡</b></td><td><b>Fun fact</b></td><td>I'm an avid reader and love photography</td></tr>
+</table>
 
 <br/>
 
@@ -152,8 +141,8 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 
 ### Let's build something with intent.
 
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/[REPLACE-WITH-YOUR-LINKEDIN-HANDLE]"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:[REPLACE-WITH-YOUR-EMAIL]"><img src="https://img.shields.io/badge/-Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 

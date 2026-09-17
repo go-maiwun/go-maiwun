@@ -1,8 +1,8 @@
 <div align="center">
 
-# Agile Delivery Leader | Cloud & Cybersecurity
+# Technical Project Management & Business | Cloudpire
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E7D6E&center=true&vCenter=true&width=750&lines=Agile+Project+Manager+%26+Scrum+Master+%7C+PMP%C2%AE%2C+PMI-ACP%C2%AE;Building+High-Performance%2C+Self-Managing+Teams;Through+Agile+Values+for+Secure%2C+People-Centered%2C+AI-Augmented+Delivery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E7D6E&center=true&vCenter=true&width=750&lines=Technical+Project+Management+%26+Business;Cloud+Security+%7C+Agile+Delivery;Building+Modern+Digital+Operations+with+Cloudpire" alt="Typing SVG" />
 
 <br/>
 
@@ -22,9 +22,11 @@ I don't see "Agile," "security," and "AI" as three separate conversations. A hig
 
 <br/>
 
-## 🧭 Direction: Cloud & Cybersecurity
+## 🧭 Direction: Technical Project Management & Business
 
-My delivery leadership sits on a **Cybersecurity foundation (BSc)**, and I'm deliberately deepening that into genuine technical range — not to leave Agile leadership behind, but to lead technical and security-driven delivery with real credibility on both sides of the table.
+I operate at the intersection of **technical project management, business delivery, and cloud security**. My work is focused on helping organizations turn complex technical initiatives into clear, measurable business outcomes — with a strong emphasis on governance, stakeholder alignment, and execution.
+
+At the same time, I’m building **Cloudpire** — a business centered on practical cloud and cybersecurity enablement, project leadership, and digital transformation support for teams that need clarity, structure, and momentum.
 
 ```mermaid
 graph LR
@@ -42,6 +44,13 @@ graph LR
 
 ## 🛠️ Core Competencies
 
+### 🔧 Technical Project Management & Business
+- Strategic project delivery for technical initiatives
+- Business requirements translation into execution plans
+- Cross-functional stakeholder management and governance
+- Delivery oversight across cloud, cybersecurity, and transformation programs
+
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -55,30 +64,30 @@ graph LR
 </td>
 <td valign="top" width="50%">
 
-### 🔐 Cloud & Cybersecurity (Growing)
-- Cybersecurity fundamentals (BSc)
-- Cloud architecture & security concepts (AWS · Azure)
-- Identity & Zero Trust principles
-- Security-first thinking applied to Agile delivery
+### ☁️ Cloud & Cybersecurity
+- Cloud architecture and security concepts (AWS · Azure)
+- Cybersecurity fundamentals and operational risk awareness
+- Identity, governance, and Zero Trust principles
+- Security-first planning for technical delivery and business change
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🤖 AI-Augmented Delivery
-- Integrating AI tooling into Agile workflows
-- Evaluating AI-driven productivity gains without losing team ownership
-- People-centered adoption of AI-augmented practices
+### 🤖 AI & Modern Delivery
+- Identifying practical AI opportunities in delivery workflows
+- Improving productivity without losing team ownership
+- Supporting modern operational models through tools and process design
 
 </td>
 <td valign="top" width="50%">
 
-### 👥 People-Centered Practice
-- Psychological safety & trust-building
-- Conflict facilitation & team health
-- Coaching individuals through change
-- Building teams that self-manage, not just self-report
+### 👥 Business Enablement
+- Team enablement and operational clarity
+- Business process improvement and stakeholder alignment
+- Coaching teams through change and complexity
+- Building delivery systems that scale with business needs
 
 </td>
 </tr>
@@ -146,7 +155,7 @@ graph LR
 
 ## 🤝 Let's Connect
 
-Always glad to talk Agile leadership, high-performing team design, or the intersection of security and delivery — especially with anyone navigating a similar path from Agile leadership into deeper technical territory.
+Always glad to talk technical project management, cloud enablement, and business transformation — especially with founders, teams, and organizations building smarter digital operations.
 
 <div align="center">
 

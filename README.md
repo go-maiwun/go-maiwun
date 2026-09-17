@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Location](https://img.shields.io/badge/Based%20in-Your%20City-555555?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Your+City)
 
 </div>
@@ -92,14 +92,21 @@ graph LR
 
 ![PMP](https://img.shields.io/badge/PMP®-Project%20Management%20Professional-2E7D6E?style=flat-square&logo=projectlibre&logoColor=white)
 ![PMI-ACP](https://img.shields.io/badge/PMI--ACP®-Agile%20Certified%20Practitioner-2E7D6E?style=flat-square)
+![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-2E7D6E?style=flat-square&logo=comptia&logoColor=white)
+![Data+](https://img.shields.io/badge/CompTIA-Data%2B%20CE-2E7D6E?style=flat-square&logo=comptia&logoColor=white)
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-2E7D6E?style=flat-square&logo=comptia&logoColor=white)
+![Project+](https://img.shields.io/badge/CompTIA-Project%2B-2E7D6E?style=flat-square&logo=comptia&logoColor=white)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-2E7D6E?style=flat-square&logo=comptia&logoColor=white)
+![A+](https://img.shields.io/badge/CompTIA-A%2B-2E7D6E?style=flat-square&logo=comptia&logoColor=white)
+![AWS-SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-2E7D6E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-2E7D6E?style=flat-square&logo=comptia&logoColor=white)
 
-**On the Roadmap**
+**Current Focus**
 
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-8A6D1F?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Administrator-8A6D1F?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Security](https://img.shields.io/badge/Security%2B-CompTIA-8A6D1F?style=flat-square&logo=comptia&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Security%20Path-8A6D1F?style=flat-square)
 
-<sub>*Roadmap credentials reflect an active, structured study plan — not yet certified. I believe in being precise about that distinction.*</sub>
+<sub>*I continue to deepen my cloud and cybersecurity expertise while applying those skills in real delivery environments.*</sub>
 
 <br/>
 
@@ -117,9 +124,9 @@ graph LR
                                 from practitioners further along the cybersecurity path
 💬 Ask me about:               Agile coaching, Scrum facilitation, building
                                 self-managing teams, or PMP/PMI-ACP prep
-📫 How to reach me:            [YOUR-EMAIL] · linkedin.com/in/[YOUR-HANDLE]
-😄 Pronouns:                   [YOUR-PRONOUNS]
-⚡ Fun fact:                    [YOUR-FUN-FACT]
+📫 How to reach me:            your.email@example.com · linkedin.com/in/your-profile
+😄 Pronouns:                   [your-pronouns]
+⚡ Fun fact:                    [your-fun-fact]
 ```
 
 <br/>
@@ -128,10 +135,10 @@ graph LR
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2E7D6E&icon_color=B4472B&text_color=555555"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2E7D6E&text_color=555555"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true&title_color=2E7D6E&icon_color=B4472B&text_color=555555"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true&title_color=2E7D6E&text_color=555555"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=transparent&hide_border=true&ring=2E7D6E&fire=B4472B&currStreakLabel=2E7D6E"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=transparent&hide_border=true&ring=2E7D6E&fire=B4472B&currStreakLabel=2E7D6E"/>
 
 </div>
 
@@ -143,8 +150,8 @@ Always glad to talk Agile leadership, high-performing team design, or the inters
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/-Send%20an%20Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Send%20an%20Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Location](https://img.shields.io/badge/-Find%20Me-555555?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Your+City)
 
 <br/><br/>

@@ -24,15 +24,15 @@ I enjoy learning deeply, working across teams, and turning complexity into clari
 ## `02` &nbsp;Direction
 
 <div align="center">
-<img src="https://img.shields.io/badge/Agile%20Delivery-2E7D6E?style=for-the-badge"/> ➜
-<img src="https://img.shields.io/badge/Cybersecurity%20Foundation-3E7C74?style=for-the-badge"/> ➜
-<img src="https://img.shields.io/badge/Cloud%20Security-46508C?style=for-the-badge"/> ➜
+<img src="https://img.shields.io/badge/Agile%20Delivery-2E7D6E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-3E7C74?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Solutions-46508C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI--Augmented%20Delivery-B4472B?style=for-the-badge"/>
 </div>
 
 <br/>
 
-Cloudpire is rooted in helping businesses navigate **digital and operational change** with clarity, structure, and measurable momentum — combining strong governance, stakeholder alignment, and real execution discipline.
+Rooted in helping businesses navigate **digital and operational change** with clarity, structure, and measurable momentum — combining strong governance, stakeholder alignment, and real execution discipline.
 
 <br/>
 

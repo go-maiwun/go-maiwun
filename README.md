@@ -80,12 +80,12 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 ## `05` &nbsp;Snapshot
 
 <table>
-<tr><td width="40"><b>🔭</b></td><td width="220"><b>Currently working on</b></td><td>Deepening my technical foundation while building Cloudpire and supporting business-focused delivery work</td></tr>
-<tr><td><b>🌱</b></td><td><b>Currently learning</b></td><td>Cloud architecture, cloud security, and how to turn technical knowledge into real business value</td></tr>
-<tr><td><b>👯</b></td><td><b>Looking to collaborate on</b></td><td>Business-building opportunities, startup support, technical project delivery, cloud/cybersecurity work</td></tr>
-<tr><td><b>🤔</b></td><td><b>Looking for help with</b></td><td>Real-world cloud security scenarios, business strategy, and practical growth opportunities for modern teams</td></tr>
-<tr><td><b>💬</b></td><td><b>Ask me about</b></td><td>Technical project management, business enablement, cloud security, learning strategies, building with intent</td></tr>
-<tr><td><b>⚡</b></td><td><b>Fun fact</b></td><td>I'm an avid reader and love photography</td></tr>
+<tr><td width="40"><b>🔭</b></td><td width="220"><b>Currently working on</b></td><td>Deepening my technical skills while building Cloudpire and supporting business-focused delivery in the Agile and Project Management Space.</td></tr>
+<tr><td><b>🌱</b></td><td><b>Currently learning</b></td><td>Cloud Engineering/Architecture/Security, and ways to turn technical aptitute into real business value.</td></tr>
+<tr><td><b>👯</b></td><td><b>Looking to collaborate on</b></td><td>Business-building opportunities, Technical project delivery, Cloud Solutioning and Cybersecurity.</td></tr>
+<tr><td><b>🤔</b></td><td><b>Looking for help with</b></td><td>Business strategy, and practical growth opportunities for the modern age.</td></tr>
+<tr><td><b>💬</b></td><td><b>Ask me about</b></td><td>Technical project management, Business enablement, Cloud Solutions & Cybersecurity, learning strategies, Building with intent</td></tr>
+<tr><td><b>⚡</b></td><td><b>Fun fact</b></td><td>Did you know that the physical act of reading and the mechanics of a camera share a literal language? When you read, your eyes don't glide smoothly across the page; instead, they make rapid, jumpy movements called saccades, pausing briefly on words to "capture" the image. These pauses are called fixations, which last roughly 200 to 300 milliseconds—making them remarkably similar to a camera's shutter speed capturing a quick snapshot of the world!</td></tr>
 </table>
 
 <br/>

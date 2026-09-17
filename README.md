@@ -85,7 +85,7 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 <tr><td><b>👯</b></td><td><b>Looking to collaborate on</b></td><td>Business-building opportunities, Technical project delivery, Cloud Solutioning and Cybersecurity.</td></tr>
 <tr><td><b>🤔</b></td><td><b>Looking for help with</b></td><td>Business strategy, and practical growth opportunities for the modern age.</td></tr>
 <tr><td><b>💬</b></td><td><b>Ask me about</b></td><td>Technical project management, Business enablement, Cloud Solutions & Cybersecurity, learning strategies, Building with intent</td></tr>
-<tr><td><b>⚡</b></td><td><b>Fun fact</b></td><td>Did you know that the physical act of reading and the mechanics of a camera share a literal language? When you read, your eyes don't glide smoothly across the page; instead, they make rapid, jumpy movements called saccades, pausing briefly on words to "capture" the image. These pauses are called fixations, which last roughly 200 to 300 milliseconds—making them remarkably similar to a camera's shutter speed capturing a quick snapshot of the world!</td></tr>
+<tr><td><b>⚡</b></td><td><b>Fun fact</b></td><td>Did you know that the physical act of reading and the mechanics of a camera share a literal language? When you read, your eyes don't glide smoothly across the page; instead, they make rapid, jumpy movements called saccades, pausing briefly on words to "capture" the image. These pauses are called fixations, which last roughly 200 to 300 milliseconds, making them remarkably similar to a camera's shutter speed capturing a quick snapshot of the world!</td></tr>
 </table>
 
 <br/>

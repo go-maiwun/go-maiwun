@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/[REPLACE-WITH-YOUR-LINKEDIN-HANDLE]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:[REPLACE-WITH-YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/[REPLACE--WITH--YOUR--CITY]-46508C?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gomaiwun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gomaiwun@gmail.com"><img src="https://img.shields.io/badge/Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/KING OF PRUSSIA, PA-46508C?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=go-maiwun&label=Profile%20Views&color=2e7d6e&style=flat" />
 

@@ -96,6 +96,7 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 
 <a href="https://linkedin.com/in/gomaiwun"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gomaiwun@gmail.com"><img src="https://img.shields.io/badge/-Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=go-maiwun&label=Profile%20Views&color=2e7d6e&style=flat" />
 
 <br/><br/>
 

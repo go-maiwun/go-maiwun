@@ -99,8 +99,6 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 <tr><td><b>👯</b></td><td><b>Looking to collaborate on</b></td><td>Business-building opportunities, startup support, technical project delivery, cloud/cybersecurity work</td></tr>
 <tr><td><b>🤔</b></td><td><b>Looking for help with</b></td><td>Real-world cloud security scenarios, business strategy, and practical growth opportunities for modern teams</td></tr>
 <tr><td><b>💬</b></td><td><b>Ask me about</b></td><td>Technical project management, business enablement, cloud security, learning strategies, building with intent</td></tr>
-<tr><td><b>📫</b></td><td><b>Reach me</b></td><td><a href="mailto:[REPLACE-WITH-YOUR-EMAIL]">Email</a> · <a href="https://linkedin.com/in/[REPLACE-WITH-YOUR-LINKEDIN-HANDLE]">LinkedIn</a></td></tr>
-<tr><td><b>😄</b></td><td><b>Pronouns</b></td><td>[REPLACE-WITH-YOUR-PRONOUNS]</td></tr>
 <tr><td><b>⚡</b></td><td><b>Fun fact</b></td><td>I'm an avid reader and love photography</td></tr>
 </table>
 
@@ -110,8 +108,8 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 
 ### Let's build something with intent.
 
-<a href="https://linkedin.com/in/[REPLACE-WITH-YOUR-LINKEDIN-HANDLE]"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:[REPLACE-WITH-YOUR-EMAIL]"><img src="https://img.shields.io/badge/-Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gomaiwun"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gomaiwun@gmail.com"><img src="https://img.shields.io/badge/-Email-2E7D6E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 

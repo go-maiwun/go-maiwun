@@ -16,17 +16,21 @@
 
 ## 👋 About Me
 
-I'm an **Agile Project Manager and Scrum Master**, **PMP®** and **PMI-ACP®** certified, focused on one thing above all: **building high-performance, self-managing teams.** I lead with Agile values — transparency, inspection, adaptation — applied to delivery that is **secure by design, people-centered in practice, and increasingly AI-augmented.**
+I’m passionate about **learning technical skills**, contributing to **corporate and startup environments**, and **building businesses that create real value**. My work sits at the intersection of **technical project management, business enablement, cloud security, and practical execution**.
 
-I don't see "Agile," "security," and "AI" as three separate conversations. A high-performing team today needs all three working together — psychological safety and self-management *and* a security-first mindset *and* fluency with the AI tools reshaping how the work itself gets done.
+I enjoy learning deeply, working across teams, and turning complexity into clarity. I’m particularly interested in how technology, business, and operations come together to build sustainable growth — whether inside an established organization or a new venture.
+
+I’m also an avid reader and enjoy photography, which keeps me curious, observant, and grounded in both the technical and creative sides of life.
 
 <br/>
 
 ## 🧭 Direction: Technical Project Management & Business
 
-I operate at the intersection of **technical project management, business delivery, and cloud security**. My work is focused on helping organizations turn complex technical initiatives into clear, measurable business outcomes — with a strong emphasis on governance, stakeholder alignment, and execution.
+I operate at the intersection of **technical project management, business delivery, and cloud security**. My focus is on helping organizations and founders translate technical complexity into practical outcomes — with strong governance, stakeholder alignment, and execution discipline.
 
-At the same time, I’m building **Cloudpire** — a business centered on practical cloud and cybersecurity enablement, project leadership, and digital transformation support for teams that need clarity, structure, and momentum.
+I’m especially motivated by work that combines **learning, contribution, and building** — whether that means supporting a growing company, helping a team execute better, or building a business of my own through **Cloudpire**.
+
+Cloudpire is rooted in helping businesses navigate digital and operational change with clarity, structure, and measurable momentum.
 
 ```mermaid
 graph LR
@@ -46,9 +50,9 @@ graph LR
 
 ### 🔧 Technical Project Management & Business
 - Strategic project delivery for technical initiatives
-- Business requirements translation into execution plans
+- Translating business needs into clear execution plans
 - Cross-functional stakeholder management and governance
-- Delivery oversight across cloud, cybersecurity, and transformation programs
+- Supporting growth, transformation, and operational clarity across teams and businesses
 
 
 <table>
@@ -83,11 +87,11 @@ graph LR
 </td>
 <td valign="top" width="50%">
 
-### 👥 Business Enablement
+### 👥 Contribution & Business Enablement
+- Contributing to corporate and startup environments with practical value
 - Team enablement and operational clarity
 - Business process improvement and stakeholder alignment
-- Coaching teams through change and complexity
-- Building delivery systems that scale with business needs
+- Building systems that support learning, delivery, and sustainable growth
 
 </td>
 </tr>
@@ -122,20 +126,19 @@ graph LR
 ## 📌 The Standard Stuff
 
 ```yaml
-🔭 I'm currently working on:   Deepening cloud architecture skills (AWS/Azure) while
-                                leading Agile delivery in my day-to-day role
-🌱 I'm currently learning:     Cloud security fundamentals, Zero Trust principles,
-                                and how to apply AI tooling inside Agile workflows
-                                without eroding team ownership
-👯 I'm looking to collaborate on: Secure-by-design Agile practices, AI-augmented
-                                delivery patterns, and cloud security fundamentals
-🤔 I'm looking for help with:  Real-world cloud security scenarios and mentorship
-                                from practitioners further along the cybersecurity path
-💬 Ask me about:               Agile coaching, Scrum facilitation, building
-                                self-managing teams, or PMP/PMI-ACP prep
+🔭 I'm currently working on:   Deepening my technical foundation while building
+                                Cloudpire and supporting business-focused delivery work
+🌱 I'm currently learning:     Cloud architecture, cloud security, and how to
+                                turn technical knowledge into real business value
+👯 I'm looking to collaborate on: Business-building opportunities, startup support,
+                                technical project delivery, and cloud/cybersecurity initiatives
+🤔 I'm looking for help with:  Real-world cloud security scenarios, business strategy,
+                                and practical growth opportunities for modern teams
+💬 Ask me about:               Technical project management, business enablement,
+                                cloud security, learning strategies, or building with intent
 📫 How to reach me:            your.email@example.com · linkedin.com/in/your-profile
 😄 Pronouns:                   [your-pronouns]
-⚡ Fun fact:                    [your-fun-fact]
+⚡ Fun fact:                    I’m an avid reader and love photography.
 ```
 
 <br/>
@@ -155,7 +158,7 @@ graph LR
 
 ## 🤝 Let's Connect
 
-Always glad to talk technical project management, cloud enablement, and business transformation — especially with founders, teams, and organizations building smarter digital operations.
+Always glad to talk technical project management, cloud enablement, business building, and practical digital transformation — especially with founders, teams, and organizations that value learning, execution, and momentum.
 
 <div align="center">
 

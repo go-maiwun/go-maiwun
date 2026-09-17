@@ -26,9 +26,8 @@
 
 I'm passionate about **learning technical skills**, contributing to **corporate and startup environments**, and **building businesses that create real value**. My work sits at the intersection of **technical project management, business enablement, cloud security, and practical execution**.
 
-I enjoy learning deeply, working across teams, and turning complexity into clarity — whether inside an established organization or a new venture I'm building myself through **Cloudpire**.
+I enjoy learning deeply, working across teams, and turning complexity into clarity — whether inside an established organization or a new venture I'm building myself.
 
-📚 Avid reader &nbsp;·&nbsp; 📷 Photography &nbsp;·&nbsp; Curious by default
 
 </td>
 </tr>
@@ -79,7 +78,6 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 
 <div align="center">
 
-**Held**
 
 <img src="https://img.shields.io/badge/PMP®-2E7D6E?style=for-the-badge"/> <img src="https://img.shields.io/badge/PMI--ACP®-2E7D6E?style=for-the-badge"/> <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-2E7D6E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
@@ -87,42 +85,13 @@ Cloudpire is rooted in helping businesses navigate **digital and operational cha
 
 <img src="https://img.shields.io/badge/Network+-2E7D6E?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/Project+-2E7D6E?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/Data+-2E7D6E?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/A+-2E7D6E?style=for-the-badge&logo=comptia&logoColor=white"/>
 
-<br/><br/>
-
-**Currently Pursuing**
-
-<img src="https://img.shields.io/badge/Azure%20Administrator-8A6D1F?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud%20Security%20Path-8A6D1F?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## `05` &nbsp;GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=go-maiwun&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
-<br/>
-
-## `06` &nbsp;GitHub Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=go-maiwun&show_icons=true&theme=transparent&hide_border=true&title_color=2E7D6E&icon_color=B4472B&text_color=555555&bg_color=00000000"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-maiwun&layout=compact&theme=transparent&hide_border=true&title_color=2E7D6E&text_color=555555&bg_color=00000000"/>
-
-<img src="https://streak-stats.demolab.com/?user=go-maiwun&theme=transparent&hide_border=true&ring=2E7D6E&fire=B4472B&currStreakLabel=2E7D6E"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=go-maiwun&theme=minimal&hide_border=true&color=46508C&line=2E7D6E&point=B4472B&area=true&area_color=2E7D6E" width="95%"/>
-
-</div>
-
-<br/>
-
-## `07` &nbsp;Snapshot
+## `05` &nbsp;Snapshot
 
 <table>
 <tr><td width="40"><b>🔭</b></td><td width="220"><b>Currently working on</b></td><td>Deepening my technical foundation while building Cloudpire and supporting business-focused delivery work</td></tr>
